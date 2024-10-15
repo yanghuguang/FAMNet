@@ -1,0 +1,14 @@
+torch
+torchvision
+tqdm
+thop
+pillow
+albumentations
+scikit-learn
+numpy
+tensorboard
+tensorboardX
+ml-collections
+scipy
+h5py
+timm
